@@ -21,16 +21,14 @@ This is a simple **Temperature Converter** web application built using **HTML, C
 4️⃣ The **converted temperature values** will be displayed instantly.  
 
 ## 🖥️ Installation  
-To run the project locally:  
+### 🔹 To run the project locally:  
 
-🔹 **Clone the repository**  
-```bash
+#### 📌 Clone the repository  
 git clone https://github.com/yourusername/temperature-converter.git
-🔹 Navigate to the project folder
 
-bash
-Copy
-Edit
 cd temperature-converter
-🔹 Open the index.html file in any browser.
+
+open index.html
+
+
 
