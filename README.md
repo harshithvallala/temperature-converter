@@ -20,15 +20,5 @@ This is a simple **Temperature Converter** web application built using **HTML, C
 3️⃣ Click the **"Convert"** button.  
 4️⃣ The **converted temperature values** will be displayed instantly.  
 
-## 🖥️ Installation  
-### 🔹 To run the project locally:  
-
-#### 📌 Clone the repository  
-git clone https://github.com/yourusername/temperature-converter.git
-
-cd temperature-converter
-
-open index.html
-
 
 
